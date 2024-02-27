@@ -1,0 +1,9 @@
+.norma-content{
+    height: 500px;
+    overflow-y: auto;
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    padding-right: 160px;
+    padding-left: 160px;
+    padding-top: 16px;
+}
